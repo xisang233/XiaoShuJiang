@@ -30,10 +30,13 @@ grammar_plot: true
 * Educational attainment 教育成就
 * Health and survival 健康与生存
 * Political empowerment 政治参与
-下表统计了中国、日本、美国、冰岛四国的四大项得分。
+下表统计了中国、日本、美国、冰岛四国的基本概况与四大项得分。
 
+![enter description here][1]
+标红的项目是分数低于总得分的项目，以及单项排名低于总排名的项目。
+由表可以看出，
 
   # 附录
 
 
-  [1]: ./images/1477925861632.jpg "1477925861632.jpg"
+  [1]: ./images/1477925902972.jpg "1477925902972.jpg"
