@@ -78,7 +78,7 @@ grammar_plot: true
 "options": { "yaxis": { "max": 1 } }
 }
 ```
-红色为日本，黄色为世界平均，蓝色为中国。
+蓝色为日本，红色为世界平均，黄色为中国。
 
 ### Political empowerment 政治参与
 ```plot!
@@ -87,7 +87,7 @@ grammar_plot: true
 "options": { "yaxis": { "max": 0.25 } }
 }
 ```
-
+红色为世界平均，黄色为中国，蓝色为日本。
 
 ## 女性与生育
 
