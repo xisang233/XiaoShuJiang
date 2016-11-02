@@ -60,6 +60,7 @@ grammar_plot: true
 "options": { "yaxis": { "max": 0.7 } }
 }
 ```
+黄色为中国、红色为世界平均、蓝色为日本。
 
 ### Educational attainment 教育成就
 ```plot!
@@ -68,6 +69,8 @@ grammar_plot: true
 "options": { "yaxis": { "max": 1 } }
 }
 ```
+蓝色为日本，红色为中国，黄色为世界平均。
+
 ### Health and survival 健康与生存
 ```plot!
 {
