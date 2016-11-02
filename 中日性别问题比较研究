@@ -69,7 +69,7 @@ grammar_plot: true
 "options": { "yaxis": { "max": 1 } }
 }
 ```
-蓝色为日本，红色为中国，黄色为世界平均。
+蓝色为日本，红色为世界平均，黄色为中国。
 
 ### Health and survival 健康与生存
 ```plot!
