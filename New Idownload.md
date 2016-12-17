@@ -38,7 +38,8 @@ grammar_cjkRuby: true
 
 # 现在Idownload的迷之bug
 
-1. 上传文件总是上传到/Public/xiaoshu/xxxx.xxx，原因暂时不明
+1. ==上传文件总是上传到/Public/xiaoshu/xxxx.xxx，原因暂时不明==
+而且，上传时写下来的所有说明，在上传之后都会消失...
 2. 手机不能使用北外网盘
 
 # 推广
