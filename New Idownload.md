@@ -24,6 +24,7 @@ grammar_cjkRuby: true
 
 静态页面可以做一个链接，放到公众号底部(制作一个按钮)
 公众号搜索(需要先把storage.bfsu.edu.cn的硬伤改了)
+日常推送制作...(大坑)
 
 ## 其他功能
 
@@ -32,5 +33,5 @@ grammar_cjkRuby: true
 
 # 现在Idownload的迷之bug
 
-上传文件总是上传到/Public/xiaoshu/xxxx.xxx，原因暂时不明
-手机不能使用北外网盘
+1. 上传文件总是上传到/Public/xiaoshu/xxxx.xxx，原因暂时不明
+2. 手机不能使用北外网盘
