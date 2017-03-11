@@ -22,6 +22,8 @@ grammar_cjkRuby: true
 
 ## Python编程语言
 
+# 研究方法
+
 # 准备与进展情况
 
 # 参考文献
