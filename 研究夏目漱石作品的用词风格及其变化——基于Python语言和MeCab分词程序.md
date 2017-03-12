@@ -125,9 +125,9 @@ print(time.time() - time0)          # 显示程序运行用时
 ```
 # 参考文献
 
-[1] [MeCab: Yet Another Part-of-Speech and Morphological Analyzer][1]
+[1] [MeCab: Yet Another Part-of-Speech and Morphological Analyzer][3]
 （http://taku910.github.io/mecab/）
-[4] 李航.统计学习方法[M].北京：清华大学出版社，2012.
+[2] 李航.统计学习方法[M].北京：清华大学出版社，2012.
 
 
-  [1]: http://taku910.github.io/mecab/
+  [3]: http://taku910.github.io/mecab/
