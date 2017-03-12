@@ -125,3 +125,7 @@ print(time.time() - time0)          # 显示程序运行用时
 ```
 # 参考文献
 
+[MeCab: Yet Another Part-of-Speech and Morphological Analyzer][1]
+
+
+  [1]: http://taku910.github.io/mecab/
