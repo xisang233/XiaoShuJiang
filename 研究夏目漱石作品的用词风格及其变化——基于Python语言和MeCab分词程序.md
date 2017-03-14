@@ -2,6 +2,7 @@
 title: 研究计划书：研究太宰治作品的用词风格及其变化——基于MeCab分词程序和tf-idf算法
 tags: 研究计划书, 2017
 grammar_cjkRuby: true
+grammar_mathjax: true
 ---
 
 [toc]
@@ -26,6 +27,16 @@ grammar_cjkRuby: true
 
 ## TF-IDF算法
 
+`!$ tf_{i, j} = \frac {n_{i, j}}{\sum_k {n_{k,j}}} $`
+即：
+`!$ 词频 = \frac {单词出现次数}{文章长度} $`
+
+`!$ idf_i = \lg{\frac {|D|}{|{j : t_i \in d_j}|}}$`
+
+即：
+`!$ 逆向文件频率 = \lg \frac {单词在该文件中的出现次数}{语料库所有文件中有多少文件包含这一单词}$`
+
+将两个结果相乘，其结果可以较好地表示该词语在文中的重要性。
 
 
 # 研究方法
