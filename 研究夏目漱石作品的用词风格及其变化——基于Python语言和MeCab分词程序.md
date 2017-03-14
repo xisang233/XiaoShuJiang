@@ -57,9 +57,7 @@ grammar_cjkRuby: true
 
 # 参考文献
 
-[1] [MeCab: Yet Another Part-of-Speech and Morphological Analyzer][3]
+[1] MeCab: Yet Another Part-of-Speech and Morphological Analyzer
 （http://taku910.github.io/mecab/）
 [2] 李航.统计学习方法[M].北京：清华大学出版社，2012.
 
-
-  [3]: http://taku910.github.io/mecab/
