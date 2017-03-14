@@ -14,4 +14,6 @@ Waka is 5-7-5-7-7, and Haiku is 5-7-5.
 
 I think you'd better to read the Ogura Hyakunin Isshu if you want to learn more about Waka. The Ogura Hyakunin Isshu is a classical Japanese anthology of one hundred Japanese waka by one hundred poets. The Hyakunin Isshu, means one hundred poems adn one hundred poets.
 
-And then, I want to introduce about my favourate Waka, is the 15th poem of Ogura Hyakunin Isshu. The poet wants to give some green herbs to 'you', and send him or her this poem.
+And then, I want to introduce about my favourate Waka, is the 15th poem of Ogura Hyakunin Isshu. The poet wants to give some green herbs to 'you', and send him or her this poem. 君がため春の野に出でて 若菜摘むわが衣手に雪は降りつつ。 It is for your sake, that I walk the fields in spring, Gathering green herbs, While my garment's hanging sleeves ,Are speckled with falling snow. 
+
+And who is 'you'? His brother? His friend? I think he gave this poem to his grilfriend, his sweatheart? 
