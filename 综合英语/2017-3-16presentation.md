@@ -17,3 +17,6 @@ I think you'd better to read the Ogura Hyakunin Isshu if you want to learn more 
 And then, I want to introduce about my favourate Waka, is the 15th poem of Ogura Hyakunin Isshu. The poet wants to give some green herbs to 'you', and send him or her this poem. 君がため春の野に出でて 若菜摘むわが衣手に雪は降りつつ。 It is for your sake, that I walk the fields in spring, Gathering green herbs, While my garment's hanging sleeves ,Are speckled with falling snow. 
 
 And who is 'you'? His brother? His friend? I think he gave this poem to his grilfriend, his sweatheart. Let us imagine it: The early spring, the snow, the wind, the new leaves, the flovers, I went out to pick green herbs, for you. What a wonderful awesome beautiful poem.
+
+This is the end of my speech. thank you very much for being here.
+これで私の発表を終わらせていただきたいと思います。ご清聴ありがとうございました。
