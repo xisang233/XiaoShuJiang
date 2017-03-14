@@ -16,6 +16,16 @@ grammar_cjkRuby: true
 
 # 先行研究概述
 
+## 关于太宰治创作生涯的三大时期已达成的共识
+现在已达成共识的是，太宰治的创作生涯可以分为三个时期：
+1. 前期 1932-1937
+2. 中期 1938-1945
+3. 后期 1946-1948
+
+本文将以承认这一共识为前提，进行进一步的研究。
+
+## TF-IDF算法
+
 
 
 # 研究方法
@@ -60,4 +70,6 @@ grammar_cjkRuby: true
 [1] MeCab: Yet Another Part-of-Speech and Morphological Analyzer
 （http://taku910.github.io/mecab/）
 [2] 李航.统计学习方法[M].北京：清华大学出版社，2012.
+[3] Salton, G. and McGill, M. J. 1983 Introduction to modern information retrieval. McGraw-Hill, ISBN 0-07-054484-0.
+
 
