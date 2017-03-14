@@ -12,3 +12,7 @@ The word waka has two different but related meanings: the original meaning was "
 Waka has 31 syllables, and Haiku has 17 syllables.
 Waka is 5-7-5-7-7, and Haiku is 5-7-5.
 
+I think you'd better to read the Ogura Hyakunin Isshu if you want to learn more about Waka. The Ogura Hyakunin Isshu is a classical Japanese anthology of one hundred Japanese waka by one hundred poets. The Hyakunin Isshu, means one hundred poems adn one hundred poets.
+
+And then, I want to introduce about my favourate Waka, is the 
+
